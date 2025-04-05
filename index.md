@@ -13,6 +13,8 @@ hide_image: false
 
 Hi, I'm Edgardo "Edo" Bermudez, a Software Engineer turned into Product Management. Explore my journey, projects, and ideas as I share my passion for the tech world and provide Product Management training/mentoring/whatever. Let's create something amazing together!
 
+<script async data-uid="9090f97318" src="https://edobermudez.kit.com/9090f97318/index.js"></script>
+
 ---
 
 ## About Me
