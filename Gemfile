@@ -45,6 +45,9 @@ gem "webrick"
 # logger added because it won't be part of the default gems in Ruby 3.5.0
 gem 'logger'
 gem 'observer' 
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
 
 group :jekyll_plugins do
   gem "jekyll-default-layout"
