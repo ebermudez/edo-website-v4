@@ -66,6 +66,10 @@ legal:
     url:               /NOTICE/
   - title:             CHANGELOG
     url:               /CHANGELOG/
+  - title:             Impress
+    url:               /impress/
+  - title:             Cookies Policy
+    url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
