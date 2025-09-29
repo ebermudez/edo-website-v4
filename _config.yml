@@ -28,7 +28,7 @@ description:           >
   My personal website and blog.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Product Manager, Mentor,  Coach
 
 # A list of keywords for your blog
 keywords:              []
@@ -48,12 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /blog/example
-  - title:             Blog
-    url:               /blog/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Example
+#    url:               /blog/example
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Documentation
+#    url:               /docs/
   - title:             About
     url:               /about/
 
