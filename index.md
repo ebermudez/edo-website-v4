@@ -10,16 +10,23 @@ no_excerpt: true
 hide_image: false
 ---
 
+## 👋 Hi, I’m Edgardo, but you can call me Edo.  
 
-Hi, I'm Edgardo "Edo" Bermudez, a Software Engineer turned into Product Management. Explore my journey, projects, and ideas as I share my passion for the tech world and provide Product Management training/mentoring/coaching. Let's create something amazing together!
+**Helping people break into tech and thrive in product teams.**  
 
+I teach **product thinking in action**: mindset + momentum + making, through real-world lessons, creative challenges, and smart systems.  
+
+[👉 Join the Newsletter - Thinking in Products](https://edobermudez.substack.com/)  
+[🗣️ Book an appointment](https://zeeg.me/ebermudez) 
+
+[//]: # ([🎓 Explore Courses](#) )
 
 ---
 
 ## About Me
 ![About Me](assets/img/about-me.jpg)
 
-I’m a [Your Profession] with a passion for tech. With 15+ years of experience in [Your Field], I specialize in [Your Skills]. When I’m not working, I enjoy [Your Hobbies].
+I'm a Computer Engineer turned into Product Management and with 15+ years of experience. Explore my journey, projects, and ideas as I share my passion for the tech world and provide Product Management training/mentoring/coaching. Let's create something amazing together!
 
 ---
 
