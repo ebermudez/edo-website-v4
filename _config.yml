@@ -183,6 +183,8 @@ kramdown:
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
 
+apple_touch_icon: /assets/img/eb_logo_512px.png
+
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
 # These settings are specific to Hydejack.
