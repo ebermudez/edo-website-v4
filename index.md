@@ -21,7 +21,6 @@ I help people break into tech and teams ship with clarity and momentum.
 ---
 
 ## Quick Links
-- 🧑‍💻 [GitHub](https://github.com/ebermudez)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/)
 - 🔗 [My Links](/my-links/)
 
