@@ -14,7 +14,6 @@ hide_image: true
 
 - 📝 [Newsletter](https://edobermudez.substack.com/)
 - 🗓️ [Book an appointment](https://zeeg.me/ebermudez)
-- 🧑‍💻 [GitHub](https://github.com/ebermudez)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/)
 - 🧠 Product resources I recommend:
   - 📕 [Inspired – Marty Cagan](https://www.svpg.com/inspired-how-to-create-products-customers-love/)
