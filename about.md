@@ -37,4 +37,4 @@ I'm a Computer Engineer turned into Product Management and with 15+ years of exp
 
 I’d love to hear from you! Whether you have a question, want to collaborate, or just want to say hi, feel free to reach out.
 
-[Contact Me →](contact/)
+[Contact Me →]({{ '/contact/' | relative_url }})
