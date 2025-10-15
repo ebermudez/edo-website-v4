@@ -1,10 +1,24 @@
 # Edo's Personal Website 🌟
+## Edo Bermudez — Product Management Mentor & Coach
 
 > Software Engineer turned Product Manager | Building digital experiences and mentoring the next generation of product leaders
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://your-domain.com)
-[![Jekyll](https://img.shields.io/badge/Built_with-Jekyll-red?style=for-the-badge&logo=jekyll)](https://jekyllrb.com/)
-[![License](https://img.shields.io/badge/License-Private-orange?style=for-the-badge)](#)
+## What this site contains
+- Professional bio and resume  
+- Blog with product management articles and case studies  
+- Portfolio of projects and consulting engagements  
+- Contact and booking information
+
+## Services
+- 1:1 mentoring and career coaching (resume, interviews, transition to PM)  
+- Product strategy and roadmap advising  
+- Workshop design and delivery (team onboarding, discovery, prioritization)  
+- Contract/product consulting (short-term engagements)
+
+## Links
+- Website: https://edobermudez.com
+- Contact: https://edobermudez.com/contact/
+- LinkedIn: https://www.linkedin.com/in/edgardobermudez
 
 ---
 
@@ -43,9 +57,6 @@ This is my personal brand website and digital portfolio, built to showcase my jo
 If you want to run this site locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/edo-website-v4.git
-cd edo-website-v4
 
 # Install dependencies
 bundle install
@@ -80,15 +91,14 @@ edo-website-v4/
 
 I'm always interested in connecting with fellow product managers, engineers, and anyone passionate about building great products.
 
-- **Website**: [your-domain.com](https://your-domain.com)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [@yourusername]
-- **Email**: [your.email@domain.com]
+- **Website**: https://edobermudez.com/
+- **LinkedIn**: https://www.linkedin.com/in/edgardobermudez
+- **Contact**: https://edobermudez.com/contact/
 
 ## 📄 License
 
-This project is currently private. All content and code are proprietary.
+This project is currently private. All content and code are proprietary and contains Hydejack Pro (commercial license).
 
 ---
 
-*Built with ❤️ by Edo Bermudez | Last updated: 2024*
+*Built with ❤️ by Edo Bermudez | Last updated: 2025*
