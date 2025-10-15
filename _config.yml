@@ -54,6 +54,8 @@ menu:
 #    url:               /blog/
 #  - title:             Documentation
 #    url:               /docs/
+  - title:             My Links
+    url:               /my-links/
   - title:             About
     url:               /about/
 
