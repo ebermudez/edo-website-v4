@@ -10,7 +10,8 @@
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 # baseurl:               '/hydejack-pro'
-
+url: https://edobermudez.com
+baseurl: /
 
 # General settings
 # ---------------------------------------------------------------------------------------
@@ -28,7 +29,7 @@ description:           >
   My personal website and blog.
 
 # A shorter description for the sidebar.
-tagline:               Product Manager, Trainer,  Coach
+tagline:               Product Manager - Trainer - Coach
 
 # A list of keywords for your blog
 keywords:              []
