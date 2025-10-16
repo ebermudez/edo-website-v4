@@ -15,7 +15,7 @@ hide_image: true
 - **1:1 Coaching**: Career growth, product leadership, and roadmapping.
 - **Mentorship**: Break into product, build portfolio, improve interviews.
 - **Advisory**: Product strategy, discovery, and prioritization frameworks.
-- **Workshops**: Team sessions on product thinking, OKRs, and execution.
+- **Workshops**: Team sessions on product thinking, agility, and execution.
 
 ---
 

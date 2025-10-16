@@ -12,9 +12,10 @@ hide_image: true
 
 ## Favorite Links
 
-- 📝 [Newsletter](https://edobermudez.substack.com/)
-- 🗓️ [Book an appointment](https://zeeg.me/ebermudez)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/)
+- 📝 [Newsletter](https://edobermudez.substack.com/){:target="_blank" rel="noopener noreferrer"}
+- 📝 [Newsletter in Spanish](https://pensandoenproductos.substack.com/){:target="_blank" rel="noopener noreferrer"}
+- 🗓️ [Book an appointment](https://zeeg.me/ebermudez){:target="_blank" rel="noopener noreferrer"}
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/){:target="_blank" rel="noopener noreferrer"}
 - 🧠 Product resources I recommend:
-  - 📕 [Inspired – Marty Cagan](https://www.svpg.com/inspired-how-to-create-products-customers-love/)
-  - 🎧 [Lenny’s Podcast](https://www.lennyspodcast.com/)
+  - 📕 [Inspired – Marty Cagan](https://www.svpg.com/inspired-how-to-create-products-customers-love/){:target="_blank" rel="noopener noreferrer"}
+  - 🎧 [Lenny’s Podcast](https://www.lennyspodcast.com/){:target="_blank" rel="noopener noreferrer"}

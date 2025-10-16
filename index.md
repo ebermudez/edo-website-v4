@@ -19,12 +19,12 @@ I help people break into tech and teams ship with clarity and momentum.
 
 - 👉 [Work with Me](/work-with-me/)
 - 🗣️ [Book an appointment](/book/)
-- 📨 [Newsletter — Thinking in Products](https://edobermudez.substack.com/)
+- 📨 [Newsletter — Thinking in Products](https://edobermudez.substack.com/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## Quick Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/){:target="_blank" rel="noopener noreferrer"}
 - 🔗 [My Links](/my-links/)
 
 ---
