@@ -9,6 +9,9 @@ no_link_title: true
 no_excerpt: true
 hide_image: false
 ---
+## Product Manager - Trainer - Coach
+
+I teach **product thinking in action**: mindset + momentum + making, through real-world lessons, creative challenges, and smart ways of working.
 
 ## Build products that ship and stick
 

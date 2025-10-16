@@ -11,13 +11,13 @@ redirect_from:
 
 # About
 
-<!--author-->
+Your Mentor and Coach for Product Management. Helping you break into tech and thrive in product teams.
 
 ## 👋 Hi, I’m Edgardo, but you can call me Edo.  
 
 **Helping people break into tech and thrive in product teams.**  
 
-I teach **product thinking in action**: mindset + momentum + making, through real-world lessons, creative challenges, and smart systems.  
+I teach **product thinking in action**: mindset + momentum + making, through real-world lessons, creative challenges, and smart ways of working.  
 
 [👉 Join the Newsletter - Thinking in Products](https://edobermudez.substack.com/)  
 [🗣️ Book an appointment](https://zeeg.me/ebermudez) 

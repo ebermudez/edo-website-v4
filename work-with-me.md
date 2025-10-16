@@ -55,5 +55,5 @@ If you’re not sure which one fits, book a quick intro.
 ## FAQs
 
 - **Who is this for?** Product folks, founders, and teams who want clear outcomes.  
-- **Timezone?** I work primarily in EST, flexible for other regions.  
+- **Timezone?** I work primarily in CET, flexible for other regions.  
 - **Company work?** Yes—team coaching and workshops available.
