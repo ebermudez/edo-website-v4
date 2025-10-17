@@ -42,7 +42,7 @@ logo:                  /assets/img/eb_logo_512px.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
+  name:                Edo Bermudez
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
