@@ -4,6 +4,7 @@ title: Edo Bermudez — Product & Tech
 #description: >
 #  A space to showcase my projects, share my thoughts, and connect with the world.
 cover: false
+image: /assets/img/og-home.jpg
 #cover_image: /assets/img/hero-background.jpg
 no_link_title: true
 no_excerpt: true
