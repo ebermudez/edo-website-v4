@@ -3,6 +3,6 @@
 {{ page_style | scssify }}
 {% assign layout = include.layout | default:page.layout %}
 {% if layout == 'grid' or layout == 'projects' %}
-{% include head/css/projects %}
+{% capture to_scssify %}{% include styles/pro/projects.scss %}{% endcapture %}{{ to_scssify | scssify }}
 {% endif %}
 </style>
