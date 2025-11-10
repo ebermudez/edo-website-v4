@@ -1,8 +1,4 @@
 <style id="_pageStyle">
 {% capture page_style %}{% include_cached styles/page-style.scss color=include.color theme_color=include.theme_color %}{% endcapture %}
 {{ page_style | scssify }}
-{% assign layout = include.layout | default:page.layout %}
-{% if layout == 'grid' or layout == 'projects' %}
-{% capture to_scssify %}{% include styles/pro/projects.scss %}{% endcapture %}{{ to_scssify | scssify }}
-{% endif %}
 </style>
