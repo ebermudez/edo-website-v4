@@ -15,10 +15,10 @@
   {% include body/main.html %}
   {% unless page.cover %}{{ sidebar }}{% endunless %}
 </hy-push-state>
-
+{% include templates/index.html %}
 {% unless page.redirect %}
   {% include_cached body/scripts.html %}
   {% include my-body.html %}
 {% endunless %}
 
-{% include_cached templates/index.html %}
+

@@ -43,8 +43,9 @@ Gemfile.lock
 _zip
 /stats.json
 .dev.vars
-
-/assets/js/*hydejack-*
+# /#jekyll-theme-hydejack/assets/js/*hydejack-*
+# /assets/js/*hydejack-*
 /_sass/*/__*__/*
 
 temp.md
+.vscode/
