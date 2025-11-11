@@ -51,8 +51,6 @@ author:
 menu:
 #  - title:             Example
 #    url:               /blog/example
-#  - title:             Blog
-#    url:               /blog/
 #  - title:             Documentation
 #    url:               /docs/
   - title:             Work with Me
@@ -183,6 +181,12 @@ defaults:
     values:
       seo:
         type:          WebPage
+  # this avoids showing the example posts in the blog listing
+  - scope: 
+      path:            example/
+      type:            posts
+    values:
+      published:       false
 
 kramdown:
   math_engine:         katex

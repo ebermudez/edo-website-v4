@@ -1,7 +1,4 @@
 {% assign layout = include.layout %}
 <style id="_styleInline">
   {% include_cached head/css/inline %}
-  {% if layout == 'grid' or layout == 'projects' %}
-  {% capture to_scssify %}{% include styles/pro/projects.scss %}{% endcapture %}{{ to_scssify | scssify }}
-  {% endif %}
 </style>
