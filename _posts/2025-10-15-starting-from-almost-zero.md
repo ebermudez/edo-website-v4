@@ -10,8 +10,12 @@ image:
 hide_last_modified: true
 ---
 
-# Starting from almost zero
-Why I decided to build my product school in public, even without an audience
+Photo by [Kevin Ku](https://unsplash.com/@ikukevk){:target="_blank" rel="noopener noreferrer"} on Unsplash
+{:.figcaption}
+
+## Starting from almost zero
+
+**Why I decided to build my product school in public, even without an audience**
 
 Starting from almost zero isn’t glamorous. There’s no clout. No built-in community cheering you on. No magic boost from a big platform or big investor behind you. Just you, your ideas, and a quiet space that feels a bit too empty at times.
 
