@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Edo Bermudez — Product & Tech
-#description: >
-#  A space to showcase my projects, share my thoughts, and connect with the world.
+description: >
+  I'm a Product Engineer (Software Engineer with Product Management experience) and here you can learn more about how to create better products and grow your career.
 cover: false
 image: /assets/img/og-home.jpg
 #cover_image: /assets/img/hero-background.jpg

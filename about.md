@@ -1,9 +1,8 @@
 ---
 layout: about
 #image: /assets/img/blog/hydejack-9.jpg
-#description: >
-#  A boutique Jekyll theme for hackers, nerds, and academics,
-#  with a focus on personal sites that are meant to impress.
+description: >
+  I'm a Product Engineer (Software Engineer with Product Management experience) and here you can learn more about how to create better products and grow your career.
 hide_description: true
 redirect_from:
   - /download/
@@ -27,7 +26,7 @@ I teach **product thinking in action**: mindset + momentum + making, through rea
 ---
 
 ## About Me
-![About Me](assets/img/about-me.jpg)
+![About Me](/assets/img/about-me.jpg)
 
 I'm a Computer Engineer turned into Product Management and with 15+ years of experience. Explore my journey, projects, and ideas as I share my passion for the tech world and provide Product Management training/mentoring/coaching. Let's create something amazing together!
 

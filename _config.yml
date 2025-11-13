@@ -32,7 +32,7 @@ description:           >
 tagline:               Product Manager - Trainer - Coach
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [product management, product thinking, product ownership, product engineering, agile coaching, training]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -43,9 +43,9 @@ logo:                  /assets/img/eb_logo_512px.png
 author:
   # Used by `jekyll-feed`:
   name:                Edo Bermudez
-  email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  linkedin:            edgardobermudez
+  website:             https://edobermudez.com/contact/
 
 # Add links to the sidebar.
 menu:
@@ -280,7 +280,7 @@ hydejack:
   hide_dates:          false
 
   # Similarly, showing last modified date can devalue a post if it is too far in the past.
-  hide_last_modified:  false
+  hide_last_modified:  true
 
   dark_mode:
     # Set to `true` to always use the dark theme.
