@@ -29,6 +29,9 @@ So I decided to start where I am. Almost zero. A few early readers, a handful of
 
 Here’s why building in public felt like the right move.
 
+<div class="centered">
+<iframe src="https://edobermudez.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ## How come "almost zero"? 
 
