@@ -51,8 +51,8 @@ author:
 menu:
 #  - title:             Example
 #    url:               /blog/example
-#  - title:             Blog
-#    url:               /blog/
+  - title:             Blog
+    url:               /blog/
 #  - title:             Documentation
 #    url:               /docs/
   - title:             Work with Me
@@ -391,6 +391,8 @@ plugins:
 #     - https://twitter.com/<username>
 #     - https://github.com/<username>
 
+# Excerpt separator
+excerpt_separator: "<!--more-->"
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------

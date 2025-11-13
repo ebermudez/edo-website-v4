@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Starting from almost zero
+title: My Template
 description: >
   A short ~160 character description of your post for search engines,
   social media previews, etc.
 categories: [general]
-tags: [blog, first-post]
+tags: [founder-stories, building-in-public]
 image:
   path: /assets/img/sidebar-bg-tech2.jpg
+hide_last_modified: true
 ---
 
 # Starting from almost zero
