@@ -78,10 +78,10 @@ You can add large text.
 {:.lead}
 
 ## Large images
-![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
+![Full-width image](https://placehold.co/800x100){:.lead width="800" height="100"}
 
 ## Captions to images
-![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
+![Full-width image](https://placehold.co/800x100){:.lead width="800" height="100"}
 A caption to an image.
 {:.figure}
 
