@@ -61,6 +61,8 @@ menu:
     url:               /blog/
   - title:             My Links
     url:               /my-links/
+#  - title:             Glossary
+#    url:               /blog/glossary/
   - title:             About
     url:               /about/
 
@@ -161,10 +163,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+#  - scope:
+#     type:            posts
+#    values:
+#     comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -183,7 +185,7 @@ defaults:
     values:
       seo:
         type:          WebPage
-  # this avoids showing the example posts in the blog listing
+  # This avoids showing the example posts in the blog listing
   - scope: 
       path:            example/
       type:            posts
@@ -304,6 +306,8 @@ hydejack:
     precache_assets:
       - /assets/img/swipe.svg
 
+# Clap button for the blog posts
+# clap_button: true
 
 # Collections
 # ----------------------------------------------------------------------------------------

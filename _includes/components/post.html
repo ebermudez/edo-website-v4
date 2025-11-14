@@ -56,6 +56,11 @@
           {% include_cached components/hy-img.html img=post.image alt=post.title width=864 height=486 %}
         </div>
       {% unless no_link_title %}</a>{% endunless %}
+      {% comment %}
+      {% if post.image_credit %}
+        <p class="figcaption">{{ post.image_credit | markdownify | replace:"<p>","" | replace:"</p>","" }}</p>
+      {% endif %}
+      {% endcomment %}
       {% assign alt = '' %}
     {% endif %}{% endunless %}
 
