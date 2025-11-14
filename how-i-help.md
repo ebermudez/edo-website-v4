@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work with Me
-permalink: /work-with-me/
+title: How I help
+permalink: /how-i-help/
 description: >
   Coaching, mentoring, and daily product work to help you ship impact with clarity and momentum.
 cover: false
@@ -10,13 +10,13 @@ no_excerpt: true
 hide_image: true
 ---
 
-### What I can help you with
+## My services
 
 I help people and teams learn to think and work like real product teams, practical, human, and without the buzzwords.  
 
 ---
 
-## How I Can Help
+## What I can do for you
 
 - **1:1 Coaching**: Career growth, product fluency, and roadmapping.
 - **Mentorship**: Break into product, build portfolio, improve interviews.

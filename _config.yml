@@ -51,14 +51,14 @@ author:
 menu:
 #  - title:             Example
 #    url:               /blog/example
-  - title:             Blog
-    url:               /blog/
 #  - title:             Documentation
 #    url:               /docs/
-  - title:             Work with Me
-    url:               /work-with-me/
+  - title:             How I help
+    url:               /how-i-help/
   - title:             Book an appointment
     url:               /book/
+  - title:             Blog
+    url:               /blog/
   - title:             My Links
     url:               /my-links/
   - title:             About
