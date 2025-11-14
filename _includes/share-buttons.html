@@ -1,0 +1,169 @@
+{% comment %}
+Share buttons component for Hydejack
+Uses native Web Share API when available, with fallback to direct share links
+{% endcomment %}
+
+{% comment %} Construct absolute URL manually {% endcomment %}
+{% assign post_url = site.url | append: site.baseurl | append: page.url %}
+{% assign post_title = page.title %}
+
+<div class="share-buttons mb6" style="text-align: center; padding: 1.5rem 0;">
+  <p style="margin-bottom: 1rem; color: var(--gray); font-size: smaller;">Share this post:</p>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
+    {% comment %} Native Share Button (shows on supported browsers) {% endcomment %}
+    <button 
+      onclick="sharePost()" 
+      class="share-button-native"
+      style="display: none; padding: 0.5rem 1rem; background: var(--accent-color); color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 0.9rem; transition: opacity 0.2s;"
+      onmouseover="this.style.opacity='0.8'"
+      onmouseout="this.style.opacity='1'">
+      <span class="icon-new-tab" style="margin-right: 0.25rem;"></span> Share
+    </button>
+    
+    {% comment %} Twitter/X Share - using JavaScript to construct URL {% endcomment %}
+    <a 
+      href="#" 
+      onclick="shareOnTwitter(event); return false;"
+      target="_blank" 
+      rel="noopener noreferrer"
+      class="share-button share-twitter"
+      style="display: inline-block; padding: 0.5rem 1rem; background: #1DA1F2; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9rem; transition: opacity 0.2s;"
+      onmouseover="this.style.opacity='0.8'"
+      onmouseout="this.style.opacity='1'">
+      <span class="icon-twitter" style="margin-right: 0.25rem;"></span> Twitter
+    </a>
+    
+    {% comment %} LinkedIn Share - using JavaScript to construct URL {% endcomment %}
+    <a 
+      href="#" 
+      onclick="shareOnLinkedIn(event); return false;"
+      target="_blank" 
+      rel="noopener noreferrer"
+      class="share-button share-linkedin"
+      style="display: inline-block; padding: 0.5rem 1rem; background: #0077B5; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9rem; transition: opacity 0.2s;"
+      onmouseover="this.style.opacity='0.8'"
+      onmouseout="this.style.opacity='1'">
+      <span class="icon-linkedin2" style="margin-right: 0.25rem;"></span> LinkedIn
+    </a>
+    
+    {% comment %} Copy Link Button {% endcomment %}
+    <button 
+      onclick="copyPostLink()" 
+      class="share-button share-copy"
+      style="padding: 0.5rem 1rem; background: var(--gray); color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 0.9rem; transition: opacity 0.2s;"
+      onmouseover="this.style.opacity='0.8'"
+      onmouseout="this.style.opacity='1'">
+      <span class="icon-link" style="margin-right: 0.25rem;"></span> <span class="copy-text">Copy Link</span>
+    </button>
+  </div>
+</div>
+
+<script>
+(function() {
+  'use strict';
+  
+  // Get current page URL and title
+  const currentUrl = window.location.href;
+  const titleEl = document.querySelector('.post-title');
+  const currentTitle = titleEl ? titleEl.textContent.trim() : document.title;
+  
+  // Show native share button if supported
+  if (navigator.share) {
+    const nativeButton = document.querySelector('.share-button-native');
+    if (nativeButton) {
+      nativeButton.style.display = 'inline-block';
+    }
+  }
+  
+  // Share function using Web Share API
+  window.sharePost = function() {
+    const text = document.querySelector('meta[name="description"]')?.content || '';
+    
+    if (navigator.share) {
+      navigator.share({
+        title: currentTitle,
+        text: text,
+        url: currentUrl
+      }).catch(function(err) {
+        if (err.name !== 'AbortError') {
+          console.log('Error sharing', err);
+        }
+      });
+    }
+  };
+  
+  // Twitter share function
+  window.shareOnTwitter = function(event) {
+    event.preventDefault();
+    const text = encodeURIComponent(currentTitle);
+    const url = encodeURIComponent(currentUrl);
+    const twitterUrl = 'https://twitter.com/intent/tweet?text=' + text + '&url=' + url;
+    console.log('Twitter URL:', twitterUrl);
+    window.open(twitterUrl, '_blank', 'noopener,noreferrer');
+  };
+  
+  // LinkedIn share function
+  window.shareOnLinkedIn = function(event) {
+    event.preventDefault();
+    //const url = encodeURIComponent(currentUrl);
+    const url = encodeURIComponent('https://example.com');
+    const linkedInUrl = 'https://www.linkedin.com/sharing/share-offsite/?url=' + url;
+    console.log('LinkedIn URL:', linkedInUrl);
+    window.open(linkedInUrl, '_blank', 'noopener,noreferrer');
+  };
+  
+  // Copy link to clipboard
+  window.copyPostLink = function() {
+    const copyButton = document.querySelector('.share-copy .copy-text');
+    const originalText = copyButton ? copyButton.textContent : 'Copy Link';
+    
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(currentUrl).then(function() {
+        if (copyButton) {
+          copyButton.textContent = 'Copied!';
+          setTimeout(function() {
+            copyButton.textContent = originalText;
+          }, 2000);
+        }
+      }).catch(function(err) {
+        console.log('Error copying', err);
+        fallbackCopy(currentUrl);
+      });
+    } else {
+      fallbackCopy(currentUrl);
+    }
+  };
+  
+  // Fallback copy method for older browsers
+  function fallbackCopy(text) {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.style.position = 'fixed';
+    textArea.style.left = '-999999px';
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+    
+    try {
+      const successful = document.execCommand('copy');
+      const copyButton = document.querySelector('.share-copy .copy-text');
+      if (successful && copyButton) {
+        const originalText = copyButton.textContent;
+        copyButton.textContent = 'Copied!';
+        setTimeout(function() {
+          copyButton.textContent = originalText;
+        }, 2000);
+      } else if (!successful) {
+        alert('Please copy this link manually: ' + text);
+      }
+    } catch (err) {
+      console.log('Fallback copy failed', err);
+      alert('Please copy this link manually: ' + text);
+    }
+    
+    document.body.removeChild(textArea);
+  }
+})();
+</script>
+
