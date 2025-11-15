@@ -1,5 +1,8 @@
 # Privacy Notice  
 
+edobermudez.com doesn't use third-party cookies,
+except for the blog posts when they contain the Substack newsletter button.
+
 This website does not use cookies, analytics, or tracking technologies.  
 No personal data is collected, stored, or shared.  
 
