@@ -19,15 +19,18 @@ Use this secure checkout link to finalize your Documents Review service.
 
 Proceed to secure payment through **Stripe**: 
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+<br />
+<div class="centered">
+    <script async
+    src="https://js.stripe.com/v3/buy-button.js">
+    </script>
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1SUNtARW03MoXVbBjJhGTuzp"
-  publishable-key="pk_live_51S7WyRRW03MoXVbB3ZDcqLGISgBHUSkL0l25YjcEsm0Y9hGXPPdGmFvXwQ04LWNCgHrnWryvSwYCb20EYFAwBrTG003nu6SjQd"
->
-</stripe-buy-button>
+    <stripe-buy-button
+    buy-button-id="buy_btn_1SUNtARW03MoXVbBjJhGTuzp"
+    publishable-key="pk_live_51S7WyRRW03MoXVbB3ZDcqLGISgBHUSkL0l25YjcEsm0Y9hGXPPdGmFvXwQ04LWNCgHrnWryvSwYCb20EYFAwBrTG003nu6SjQd"
+    >
+    </stripe-buy-button>
+</div>
 <br />
 <br />
 
