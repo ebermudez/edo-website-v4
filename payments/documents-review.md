@@ -7,6 +7,8 @@ Use this secure checkout link to finalize your Documents Review service.
 - Detailed review of up to 5 pages
 - Inline comments and actionable edits
 - 15-minute recap call with next steps (optional)
+
+Notice that this is **not** a service to write your CV for you. I will only review the document you already have.
 <br />
 <br />
 
