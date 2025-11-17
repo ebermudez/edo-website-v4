@@ -45,6 +45,7 @@ To guarantee an answer, please make the payment first.
 <br />
 
 **FAQs**
+- *What can I do if I need a longer coaching/mentoring session?* - You can always book a longer session in this [link](https://zeeg.me/ebermudez/1-1-with-edo-bermudez-coaching-mentoring-consulting). 
 - *Can I update the docs after payment?* — Yes, send the latest draft anytime before the review date.
 - *What payment methods are accepted?* — Stripe supports major cards and Apple Pay.
 - *Need help?* — Reach out via the [contact page](/contact).
