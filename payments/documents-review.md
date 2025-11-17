@@ -1,6 +1,7 @@
 ### Documents Review Payment
 
 Use this secure checkout link to finalize your Documents Review service.
+I'm specialized in the Tech Industry.
 <br />
 
 **What you get**
@@ -45,8 +46,8 @@ To guarantee an answer, please make the payment first.
 <br />
 
 **FAQs**
-- *What can I do if I need a longer coaching/mentoring session?* - You can always book a longer session in this [link](https://zeeg.me/ebermudez/1-1-with-edo-bermudez-coaching-mentoring-consulting). 
+- *What can I do if I need a longer coaching/mentoring session?* - You can always book another session in this [link](https://zeeg.me/ebermudez/1-1-with-edo-bermudez-coaching-mentoring-consulting){:target="_blank" rel="noopener noreferrer"}. 
 - *Can I update the docs after payment?* — Yes, send the latest draft anytime before the review date.
 - *What payment methods are accepted?* — Stripe supports major cards and Apple Pay.
-- *Need help?* — Reach out via the [contact page](/contact).
+- *Need help?* — Reach out via the [contact page](/contact){:target="_blank" rel="noopener noreferrer"}.
 
