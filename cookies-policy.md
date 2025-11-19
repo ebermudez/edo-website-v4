@@ -10,3 +10,7 @@ If you contact me directly (for example, by email), any information you provide 
 ### Fonts
 
 This site uses the Roboto font family for text and headings. The font files are hosted directly on edobermudez.com, so no personal data (such as IP addresses) is shared with external font providers. Loading the fonts does not set cookies or contact third-party CDNs.
+
+### Payments
+
+I use "Stripe" as payment service, so you can purchase some products directly from the website. Stripe collects personal data as necessary for the transaction.
