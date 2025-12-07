@@ -24,6 +24,15 @@ I help people break into tech and teams ship with clarity and momentum.
 
 ---
 
+## I stand for:
+
+- Software that solves problems and needs for real people. 
+- Respectful human conditions for every employee. 
+- Work with purpose - as a founder or as an IC.
+- Meaningful collaboration that benefits everyone involved.
+
+---
+
 ## Quick Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/){:target="_blank" rel="noopener noreferrer"}
 - 🔗 [My Links](/my-links/)
