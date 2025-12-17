@@ -14,10 +14,10 @@ author1:
   # This photo will be used in the about section
   picture:
     path:            /assets/img/about-me.jpg
-    # srcset is optional, but can be used to provide higher res versions for retina displays
+    # srcset is optional, but can be used to provide higher res versions for retina displays. https://placehold.co/256x256 or https://placehold.co/128x128
     srcset:
-      1x:            https://placehold.co/128x128
-      2x:            https://placehold.co/256x256
+      1x:            /assets/img/about-me-128x128.jpg
+      2x:            /assets/img/about-me-256x256.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
