@@ -16,6 +16,3 @@ hide_image: true
 - 📝 [Newsletter in Spanish](https://pensandoenproductos.substack.com/){:target="_blank" rel="noopener noreferrer"}
 - 🗓️ [Book an appointment](https://zeeg.me/ebermudez){:target="_blank" rel="noopener noreferrer"}
 - 💼 [LinkedIn](https://www.linkedin.com/in/ebermudez/){:target="_blank" rel="noopener noreferrer"}
-- 🧠 Product resources I recommend:
-  - 📕 [Inspired – Marty Cagan](https://www.svpg.com/inspired-how-to-create-products-customers-love/){:target="_blank" rel="noopener noreferrer"}
-  - 🎧 [Lenny’s Podcast](https://www.lennyspodcast.com/){:target="_blank" rel="noopener noreferrer"}

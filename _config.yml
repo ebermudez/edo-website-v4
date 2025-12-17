@@ -21,18 +21,18 @@ baseurl: /
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Edo's
+title:                 Edo Bermudez
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Product Manager - Trainer - Coach in the Tech Industry.
+  Product Coach & Trainer in the Tech Industry.
 
 # A shorter description for the sidebar.
-tagline:               Product Manager - Trainer - Coach
+tagline:               Product Coach & Trainer
 
 # A list of keywords for your blog
-keywords:              [product management, product thinking, product ownership, product engineering, agile coaching, training]
+keywords:              [product management, product ownership, product engineering, agile coaching, training]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.

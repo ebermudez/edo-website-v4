@@ -10,17 +10,48 @@ no_link_title: true
 no_excerpt: true
 hide_image: false
 ---
-## Product Manager - Trainer - Coach
+## Product Coach & Trainer
 
-I teach **product thinking in action**: mindset + momentum + making, through real-world lessons, creative challenges, and smart ways of working.
+I teach **product thinking in action**: technical product management and agile team organization, through real-world lessons, creative challenges, and smart ways of working.
+
+<!--author-->
 
 ## Build products that ship and stick
 
 I help people break into tech and teams ship with clarity and momentum.
 
-- 👉 [Work with Me](/work-with-me/)
+- 👉 [Work with Me](/how-i-help/)
 - 🗣️ [Book an appointment](/book/)
 - 📨 [Newsletter — Thinking in Products](https://edobermudez.substack.com/){:target="_blank" rel="noopener noreferrer"}
+
+---
+
+## What can I help you learn?
+→ Product skills for engineers, and technical understanding for product professionals.
+
+→ How to plan, build, and validate software step by step.
+
+→ How to run meetings that don’t waste time.
+
+→ How to work well in hybrid or distributed teams.
+
+→ Understand the whole discovery and software development cycle.
+
+→ Use AI and modern tools to work faster and think better.
+
+---
+
+## If you or your team aim to achieve more, I’m here for:
+→ Workshops (product skills, team agility, product-engineering-design alignment).
+
+→ Coaching/Mentoring (career growth, real-world tactics, product thinking).
+
+→ Team sessions (team syncs, idea generation, continuous improvement).
+
+→ Hands-on practice with real scenarios.
+
+→ Custom training and sessions according to your needs.
+
 
 ---
 
@@ -28,7 +59,7 @@ I help people break into tech and teams ship with clarity and momentum.
 
 - Software that solves problems and needs for real people. 
 - Respectful human conditions for every employee. 
-- Work with purpose - as a founder or as an IC.
+- Work with purpose - as a founder or as an individual contributor.
 - Meaningful collaboration that benefits everyone involved.
 
 ---

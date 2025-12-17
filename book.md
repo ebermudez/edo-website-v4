@@ -9,6 +9,8 @@ no_link_title: true
 no_excerpt: true
 hide_image: true
 ---
+## Book a slot through my portal:
+It needs a little time to load. 
 
 <!-- Zeeg inline embed begins -->
 <div class="zeeg-inline-widget" id="zeeg-embed-ebermudez" style="width: auto; height: 850px"></div>
