@@ -1,13 +1,23 @@
+/* Modern browsers - WOFF only (no TTF warning) */
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?eqgt9r');
-  src:  url('fonts/icomoon.eot?eqgt9r#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?eqgt9r') format('truetype'),
-    url('fonts/icomoon.woff?eqgt9r') format('woff'),
-    url('fonts/icomoon.svg?eqgt9r#icomoon') format('svg');
+  src: url('fonts/icomoon.woff?eqgt9r') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: block;
+}
+
+/* Fallback for older browsers - includes TTF */
+@supports not (font-display: block) {
+  @font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?eqgt9r');
+    src: url('fonts/icomoon.eot?eqgt9r#iefix') format('embedded-opentype'),
+         url('fonts/icomoon.ttf?eqgt9r') format('truetype'),
+         url('fonts/icomoon.svg?eqgt9r#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
 }
 
 [class^="icon-"], [class*=" icon-"] {
