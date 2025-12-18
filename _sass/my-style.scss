@@ -49,6 +49,6 @@
 }
 
 // Fix avatar overlap issue on home page only
-body.layout--home .content .avatar {
+.content .avatar {
   margin-top: -0.5rem;
 }
