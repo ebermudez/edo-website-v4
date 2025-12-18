@@ -2,15 +2,15 @@
 layout: page
 title: Book an Appointment
 permalink: /book/
-description: >
-  Schedule a meeting with Edo.
+#description: >
+#  Schedule a meeting with Edo.
 cover: false
 no_link_title: true
 no_excerpt: true
 hide_image: true
 ---
 ## Book a slot through my portal:
-It can take a little while to load. 
+It can take a little while to load (or click on refresh page). 
 
 <!-- Zeeg inline embed begins -->
 <div class="zeeg-inline-widget" id="zeeg-embed-ebermudez" style="width: auto; height: 850px"></div>
