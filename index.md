@@ -14,6 +14,7 @@ hide_image: false
 
 I teach **product thinking in action**: technical product management and agile team organization, through real-world lessons, creative challenges, and smart ways of working.
 
+
 <!--author-->
 
 ## Build products that ship and stick

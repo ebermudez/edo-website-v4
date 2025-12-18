@@ -10,7 +10,7 @@ no_excerpt: true
 hide_image: true
 ---
 ## Book a slot through my portal:
-It needs a little time to load. 
+It can take a little while to load. 
 
 <!-- Zeeg inline embed begins -->
 <div class="zeeg-inline-widget" id="zeeg-embed-ebermudez" style="width: auto; height: 850px"></div>
